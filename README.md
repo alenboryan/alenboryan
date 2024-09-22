@@ -19,11 +19,16 @@ I'm a novice web developer with a passion for coding. I started my programming j
 ## 💼 Looking for:
 - Job opportunities in web development
 
+## ✅  My LeetCode and  CodeWars:
+
+- [![Codewars]( https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=red)](https://www.codewars.com/users/alenboryan)  
+- [![LeetCode]( https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/alen_____0704/)  
+
+
 ## 📫 How to reach me:
 - [![Telegram]( https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=Blue)](https://t.me/AL07en)  
 - [![LinkedIn]( https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/alen-boryan-a660772b0/)  
-- [![Codewars]( https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=red)](https://www.codewars.com/users/alenboryan)  
-- [![LeetCode]( https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/alen_____0704/)  
+
 
 
 Feel free to reach out if you want to connect or collaborate!
