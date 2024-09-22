@@ -27,4 +27,3 @@ I'm a novice web developer with a passion for coding. I started my programming j
 
 
 Feel free to reach out if you want to connect or collaborate!
-S
